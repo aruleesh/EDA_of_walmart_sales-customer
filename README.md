@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis
+# EDA of Walmart Sales, Customer
 
 ## About
 
