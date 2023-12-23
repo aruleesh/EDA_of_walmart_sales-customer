@@ -1,4 +1,4 @@
-# EDA of Walmart Sales, Customer
+# EDA of Walmart Sales, Customer, Product
 
 ## About
 
